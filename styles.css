@@ -1,0 +1,20 @@
+/* CSS! */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: helvetica;
+}
+
+.img-stack {
+  height: 500px;
+  position: relative;
+}
+
+.img-stack img {
+  height: 100%;
+  width: auto;
+}
